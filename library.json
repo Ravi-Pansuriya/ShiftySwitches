@@ -1,0 +1,21 @@
+{
+    "name": "ShiftySwitches",
+    "keywords": "shiftyswitches, shift resistor, SN74HC595, shifty, switches, geeky, geekyworks",
+    "description": "A wrapper library of Shifty to control relay switches using SN74HC595. This library allows you to control individual pins of shift resister by assigning unique id.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ravi-Pansuriya/ShiftySwitches.git"
+    },
+    "version": "1.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif"
+    ],
+    "authors": [
+    	{
+    		"name": "Ravi Pansuriya",
+    		"email": "ravi@geekyworks.com"
+    	}
+    ]
+}

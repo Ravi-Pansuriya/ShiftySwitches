@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ShiftySwitches
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ShiftySwitches	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+add			KEYWORD2
+turnOn 		KEYWORD2
+turnOff 	KEYWORD2
+toggle 		KEYWORD2
+turnAllOn 	KEYWORD2
+turnAllOff 	KEYWORD2
+toggleAll 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

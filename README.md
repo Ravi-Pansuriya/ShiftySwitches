@@ -17,7 +17,7 @@ within the Arduino application.
 
 ## Limitations
 
-- It has all the limitation of `Shifty`. [library](https://github.com/johnnyb/Shifty/issues)
+- It has all the limitation of `Shifty` ([issues](https://github.com/johnnyb/Shifty/issues)).
 - It has compatibility of only 8 bit ShiftResistor. To extend it you have to update value of `MAX_SWITCHES` to the multiplication of 8 in `ShiftySwitches.h`. 
 i.e.: 8 * NoOfShiftResistor.
 
